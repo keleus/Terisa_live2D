@@ -8,7 +8,12 @@ Terisa Live2D是一个基于live2d.js提取的Live2D模型，人物形象是上�
 MyBlog:[听风·未雨](https://www.clf.red "听风·未雨")
 
 ## 如何使用？
-前往[Github](https://github.com/lychs1998/Terisa_live2D "Github")下载模型文件
+
+#### 下载模型文件：
+
+[Github](https://github.com/lychs1998/Terisa_live2D/archive/master.zip "Github") [蓝凑云](https://www.lanzous.com/i2ry0le "蓝凑云")
+
+#### 配合插件使用
 
 Typecho博客可以使用：[Pio插件](https://github.com/Dreamer-Paul/Pio "Pio插件")
 
