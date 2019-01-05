@@ -1,6 +1,5 @@
 # Terisa Live2D
-Terisa Live2D是一个基于live2d.js提取的Live2D模型，人物形象是上海米哈游旗下崩坏系列的德利莎，版权为miHoYo所有。
-
+Terisa Live2D是一个基于live2d.js提取改造的Live2D模型，人物形象是上海米哈游旗下崩坏系列的德利莎，版权为miHoYo所有。欢迎各位Star
 
 ## 展示
 ![](https://yun.clf.red/?/images/2019/01/04/evHj0mcEEY/terisa.png)
