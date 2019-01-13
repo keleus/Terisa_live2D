@@ -4,8 +4,6 @@ Terisa Live2D是一个基于live2d.js提取改造的Live2D模型，人物形象�
 ## 展示
 ![](https://yun.clf.red/?/images/2019/01/04/evHj0mcEEY/terisa.png)
 
-MyBlog:[听风·未雨](https://www.clf.red "听风·未雨")
-
 ## 如何使用？
 
 #### 下载模型文件：
